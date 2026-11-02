@@ -1,0 +1,10 @@
+{
+  "name": "concept-art",
+  "displayName": "Concept Art",
+  "version": "1.1.0",
+  "description": "A step-by-step concept art workflow: brainstorm a striking core concept, pick the key details that make it pop, design each one, and turn the result into a detailed AI art prompt.",
+  "author": { "name": "Matty",
+  "license": "MIT",
+  "keywords": ["concept-art", "design", "ai-art", "prompting", "character-design"]
+}
+
